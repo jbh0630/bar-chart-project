@@ -1,0 +1,16 @@
+.bars{
+  background-color: aqua;
+  padding-top: 3px;
+  font-size: 10;
+  border: 1px solid black;
+}
+.nameOfChart {
+  color: green;
+}
+.ranges{
+  display: inline-block;
+  text-align: left;
+}
+.ran0{
+  display: inline-block;
+}
